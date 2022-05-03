@@ -22,5 +22,3 @@
 </div>
 
 Obrigado pela visita.
-
-![Snake animation](https://github.com/railsacordeiro/railsacordeiro/blob/output/github-contribution-grid-snake.svg)
