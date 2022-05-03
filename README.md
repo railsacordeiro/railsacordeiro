@@ -1,12 +1,12 @@
-## Olá, Railsa aqui  :vulcan_salute: :sunflower: 
+## Hey, Railsa aqui  :vulcan_salute: :sunflower: 
 
-:computer: Futura Programadora.
+:computer:  Futura Programadora.
 
-:earth_americas: São Paulo - Brasil.
+:earth_americas:  São Paulo - Brasil.
 
-:open_book: Atualmente estou estudando bastante para a Faculdade de TI.
+:open_book:  Atualmente estou estudando bastante para a Faculdade de TI.
 
-:pushpin: 2021/2022 Objetivos: Recolocação no mercado de trabalho.
+:pushpin:  2022/2023 Objetivos: Começar a trabalhar com programação.
 
 <a href="https://github.com/railsacordeiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=railsacordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
