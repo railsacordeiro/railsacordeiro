@@ -1,15 +1,15 @@
 ## Olá, Devs!! Railsa Aqui 🖖
 
-Tenho 30 anos, moro em são Paulo Capital, e posso dizer o quanto sou apaixonada por programação!! ❤
+Tenho 32 anos, moro em são Paulo Capital, e posso dizer o quanto sou apaixonada por programação!! ❤
 Sou uma iniciante nesse universo, mais procurando estudar bastabte para futuramente atuar no que amo 🥰
 
 🖥  Futura Programadora.
 
-👩‍🎓  Cursando - Tecnologia da Informação
+👩‍🎓  Cursando - Engenharia da Computação
 
 📚  Atualmente estou estudando bastante para a Faculdade.
 
-:pushpin:  Objetivos: Atuar profissionalmente na area da Programação.
+:pushpin:  Objetivos: Me aperfeiçoar mais e mais e crescer profissionalmente.
 
 <a href="https://github.com/railsacordeiro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=railsacordeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
