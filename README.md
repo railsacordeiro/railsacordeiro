@@ -1,6 +1,7 @@
 ## Olá, Devs!! Railsa Aqui 🖖
 
 Tenho 32 anos, moro em são Paulo Capital, e posso dizer o quanto sou apaixonada por programação!! ❤
+
 Sou uma iniciante nesse universo, mais procurando estudar bastabte para futuramente atuar no que amo 🥰
 
 🖥  Futura Programadora.
